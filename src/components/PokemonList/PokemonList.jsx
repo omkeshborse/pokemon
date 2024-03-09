@@ -66,7 +66,7 @@ function PokemonList() {
           <>
             {pokemonList.map((p) => {
               console.log(p);
-              return <Pokemon key={p.id} name={p.name} image={p.image} />;
+              return <Pokemon key={p.id} name={p.name} image={p.image} id={p.id} />;
             })}
           </>
         )}

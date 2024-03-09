@@ -18,8 +18,5 @@
 .pokemon-name {
     font-size: xx-large;
     letter-spacing: 0.5rem;
-}
-
-.pokemon:hover {
-    background-color: beige;
+    text-align: center;
 }
