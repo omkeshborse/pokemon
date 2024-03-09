@@ -8,3 +8,9 @@
     margin-top: 1rem;
     padding: 1.5rem;
 }
+
+@media screen and (min-width: 300px) and (max-width: 678px) {
+    .search-wrapper #pokemon-name-search {
+        width: 200px;
+    }
+}
