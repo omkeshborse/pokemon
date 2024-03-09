@@ -20,3 +20,9 @@
     letter-spacing: 0.5rem;
     text-align: center;
 }
+
+@media screen and (min-width: 300px) and (max-width: 678px) {
+    .pokemon-image {
+        width: 250px;
+    }
+}
