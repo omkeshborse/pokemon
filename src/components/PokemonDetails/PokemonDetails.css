@@ -48,4 +48,8 @@
     .pokemon-wrapper {
         flex-direction: column;
     }
+
+    .pokemon-details-image {
+        width: 250px;
+    }
 }
