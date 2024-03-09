@@ -43,3 +43,9 @@
     padding: 0.5rem;
     background-color: gainsboro;
 }
+
+@media screen and (min-width: 300px) and (max-width: 678px) {
+    .pokemon-wrapper {
+        flex-direction: column;
+    }
+}
